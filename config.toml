@@ -1,0 +1,9 @@
+baseurl = "/"  # Include trailing slash
+title = "Топ собак"
+theme = "hugo-swift-theme"
+
+canonifyurls = true
+paginate = 4
+
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
